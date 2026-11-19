@@ -5,7 +5,7 @@ int main() {
     int n;
 
     printf("Press 1 for Meetha, 2 for Namkeen: ");
-    scanf("%d", &n);
+        scanf("%d", &n);
 
     switch(n) {
         case 1:
